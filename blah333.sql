@@ -1,2 +1,0 @@
-name 
-band_id
